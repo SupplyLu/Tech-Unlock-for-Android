@@ -2,3 +2,4 @@
 # 每行一个设备指纹（SHA-256 hex）
 # 添加设备指纹后，对应设备联网即可自动激活
 
+8fb58c4a5cc790fa5b6410b8dec1ab9496ab122ffebc7bfc23ebe14fa99e2089
